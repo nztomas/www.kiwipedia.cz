@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://nztomas.github.io/www.kiwipedia.cz//</link>
-    <atom:link href="http://nztomas.github.io/www.kiwipedia.cz//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jul 2015 21:11:03 +1200</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2015 21:11:03 +1200</lastBuildDate>
+    <link>http://nztomas.github.io/www.kiwipedia.cz/</link>
+    <atom:link href="http://nztomas.github.io/www.kiwipedia.cz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 11 Jul 2015 21:16:21 +1200</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2015 21:16:21 +1200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sun, 12 Jul 2015 09:04:09 +1200</pubDate>
-        <link>http://nztomas.github.io/www.kiwipedia.cz//jekyll/update/2015/07/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://nztomas.github.io/www.kiwipedia.cz//jekyll/update/2015/07/12/welcome-to-jekyll.html</guid>
+        <link>http://nztomas.github.io/www.kiwipedia.cz/jekyll/update/2015/07/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://nztomas.github.io/www.kiwipedia.cz/jekyll/update/2015/07/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
